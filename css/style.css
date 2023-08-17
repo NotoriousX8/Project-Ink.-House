@@ -1,0 +1,66 @@
+.card {
+  width: 350px;
+  height: 730px;
+  background-color: #e1ede6;
+}
+
+img {
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #86928b;
+}
+
+.author {
+  margin: 10px 20px;
+  color: #86928b;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.title {
+  margin: 10px 20px;
+  color: #2c2d35;
+  font-family: Raleway;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.subtitle {
+  margin: 8px 20px;
+  color: #2c2d35;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.price {
+  margin: 30px 20px 0;
+  color: #598d66;
+  font-family: Raleway;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.intoabusket {
+  margin: 20px 20px 30px;
+  display: flex;
+  width: 310px;
+  height: 65px;
+  justify-content: center;
+  align-items: center;
+  border: solid 2px;
+  background: #e1ede6;
+  color: #598d66;
+  font-family: Raleway;
+  font-size: 20px;
+  font-weight: 500;
+}
